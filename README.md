@@ -47,6 +47,9 @@ E-commerce/
 └── README.md
 
 
+---
+
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repo
@@ -62,6 +65,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ### 3. Install dependencies
 
 pip install -r requirements.txt
+
+
+---
 
 
 ##🧪 Testing
