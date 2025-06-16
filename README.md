@@ -31,21 +31,21 @@ This project is a simple and scalable **E-commerce backend** built using **FastA
 E-commerce/   
 ├── main.py  
 ├── routers/  
-│   ├── cart.py  
-│   ├── history.py  
-│   ├── products_buyer_pov.py
-│   ├── products_seller_pov.py
-│   ├── user.py
-│   └── wishlist.py
-├── models/
-│   └── all_models_defs.py
-├── db/
-│   ├── db_setup.py
-│   └── tables_setup.py
-├── config/
-│   └── queries.py
-├── requirements.txt
-└── README.md
+│       ├── cart.py  
+│       ├── history.py  
+│       ├── products_buyer_pov.py  
+│       ├── products_seller_pov.py  
+│       ├── user.py  
+│       └── wishlist.py  
+├── models/  
+│       └── all_models_defs.py  
+├── db/  
+│       ├── db_setup.py  
+│       └── tables_setup.py  
+├── config/  
+│       └── queries.py  
+├── requirements.txt  
+└── README.md  
 
 ---
 
