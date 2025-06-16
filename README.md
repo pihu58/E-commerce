@@ -28,11 +28,11 @@ This project is a simple and scalable **E-commerce backend** built using **FastA
 ## 📁 Project Structure
 
 
-E-commerce/< br / >  
-├── main.py< br / >
-├── routers/< br / >
-│   ├── cart.py< br / >
-│   ├── history.py
+E-commerce/   
+├── main.py  
+├── routers/  
+│   ├── cart.py  
+│   ├── history.py  
 │   ├── products_buyer_pov.py
 │   ├── products_seller_pov.py
 │   ├── user.py
